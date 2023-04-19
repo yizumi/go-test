@@ -1,0 +1,8 @@
+# infra
+.c9
+
+# output
+go-test
+
+# database
+test.db
